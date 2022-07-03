@@ -1,0 +1,15 @@
+Para acessar o programa crie um banco de dados com as seguintes tabelas
+
+tabela "test"
+e dentro dela crie um chamado "jogo"
+e dentro do jogo crie 
+ID int AI
+Nome Text
+Sexo Text
+Raça Text
+Classe Text
+Nivel int
+Subnivel int
+
+
+esse e so o inicio logo logo enviarei outra versao melhor e em uma interface grafica
